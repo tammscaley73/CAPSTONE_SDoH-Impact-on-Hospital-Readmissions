@@ -12,7 +12,7 @@ The intent of this project is to investigate further this relationship by conduc
 4 hospitals located in Nashville, Memphis, Chattanooga, and Lebanon, TN, respectively.
 Using data from the Centers for Medicare &amp; Medicaid Services (CMS), the 2013-2017 American
 Community Survey (ACS-U.S. Census Bureau), the Centers for Disease Control and Prevention
-(CDC) and the United States Department of Agriculture (USDA), I plan to observe these
+(CDC), the United States Department of Agriculture (USDA), and CountyHealthRankings.org, I plan to observe these
 hospitals in their distinct contexts and answer several questions which I’ll outline below. 
 
 To answer the question of how SDoH might impact readmission rates, I decided to pick 2 
