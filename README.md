@@ -1,4 +1,4 @@
-# CAPSTONE_SDoH-Impact-on-Hospital-Readmissions
+# THE IMPACT OF SOCIAL DETERMINANTS OF HEALTH ON HOSPITAL READMISSION RATES FOR TEN SELECT TN HOSPITALS
 In recent years, much effort has been made to understand the relationship between Social
 Determinants of Health (SDoH) and excess hospital readmissions, as defined by the Hospital
 Readmissions Reduction Program (HRRP) in the Affordable Care Act of 2012. The literature
@@ -9,15 +9,14 @@ equitable care on the part of hospitals, consumers and others with a vested inte
 
 
 The intent of this project is to investigate further this relationship by conducting a case study of
-4 hospitals located in Nashville, Memphis, Chattanooga, and Lebanon, TN, respectively.
+4 hospitals located in Nashville, Memphis, Chattanooga, Savannah, Oak Ridge, Livingston, and Lebanon, TN, respectively.
 Using data from the Centers for Medicare &amp; Medicaid Services (CMS), the 2013-2017 American
 Community Survey (ACS-U.S. Census Bureau), the Centers for Disease Control and Prevention
 (CDC), the United States Department of Agriculture (USDA), and CountyHealthRankings.org, I plan to observe these
 hospitals in their distinct contexts and answer several questions which I’ll outline below. 
 
-To answer the question of how SDoH might impact readmission rates, I decided to pick 2 
-hospitals in the same peer group with one of the best (i.e., lowest) readmission rates in Tennessee and two in the same
-peer group from the bottom 5 of readmission rates. 
+To answer the question of how SDoH might impact readmission rates, I decided to pick 10 
+hospitals, 2 from each of the 5 peer groups defined by CMS.
 Using data from CMS, I will limit my analysis to the top 3 zip codes each hospital serves and ask
 the following sub-questions:
 
