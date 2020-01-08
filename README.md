@@ -9,7 +9,7 @@ equitable care on the part of hospitals, consumers and others with a vested inte
 
 
 The intent of this project is to investigate further this relationship by conducting a case study of
-4 hospitals located in Nashville, Memphis, Chattanooga, Savannah, Oak Ridge, Livingston, and Lebanon, TN, respectively.
+10 hospitals located in Nashville, Memphis, Chattanooga, Savannah, Oak Ridge, Livingston, and Lebanon, TN, respectively.
 Using data from the Centers for Medicare &amp; Medicaid Services (CMS), the 2013-2017 American
 Community Survey (ACS-U.S. Census Bureau), the Centers for Disease Control and Prevention
 (CDC), the United States Department of Agriculture (USDA), and CountyHealthRankings.org, I plan to observe these
